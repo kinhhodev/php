@@ -139,6 +139,18 @@
                         <div class="copy mt-[10px] md:mt-[12px]">
                             <p>Error non architecto blanditiis nihil rerum. Corporis modi repudiandae qui molestiae vel hic fugit veniam </p>
                         </div>
+                        <a href="#" class="swiper-slide h-auto p-[16px] md:p-[20px] xl:p-[24px] rounded-[12px] md:rounded-[16px] xl:rounded-[24px] bg-white text-center group">
+                            <div class="img pb-[133.333333333%] rounded-[8px] md:rounded-[12px] lg:rounded-[16px] mb-[16px]">
+                                <img src="@images/event_01.jpg" loading="lazy" class="object-cover " alt="">
+                            </div>
+                            <div class="flex flex-col md:flex-col-reverse gap-[4px]">
+                                <span class="text-[12px] leading-[16px] lg:text-[14px] lg:leading-[20px] font-bold block">December 20, 2024 - December 29, 2024</span>
+                                <h3 class="font-SVN-Abril-Fatface text-[20px] leading-[1.2] lg:text-[24px] lg:leading-[30px] lg+:transition-colors lg+:duration-200 lg+:group-hover:text-[#ff8b00]">Tên sự kiện</h3>
+                            </div>
+                            <div class="copy mt-[10px] md:mt-[12px]">
+                                <p>Error non architecto blanditiis nihil rerum. Corporis modi repudiandae qui molestiae vel hic fugit veniam </p>
+                            </div>
+                        </a>
                     </a>
 
                     <a href="#" class="swiper-slide h-auto p-[16px] md:p-[20px] xl:p-[24px] rounded-[12px] md:rounded-[16px] xl:rounded-[24px] bg-white text-center group">
